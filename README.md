@@ -10,7 +10,7 @@
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 ```
 
-**`Ethical Hacker in Progress · BlackArch · KDE · Learning in Public`**
+**`Ethical Hacker in Progress · Arch · KDE · Learning in Public`**
 
 [![Visits](https://komarev.com/ghpvc/?username=NETHRANAND-20449&style=flat-square&color=00ff41&label=PROFILE+VIEWS)](https://github.com/NETHRANAND-20449)
 [![GitHub followers](https://img.shields.io/github/followers/NETHRANAND-20449?style=flat-square&color=00ff41&label=FOLLOWERS)](https://github.com/NETHRANAND-20449?tab=followers)
@@ -23,7 +23,7 @@
 
 ```bash
 > name       : Nethranand
-> os         : BlackArch Linux (KDE Plasma)
+> os         : Arch Linux (KDE Plasma)
 > focus      : Ethical Hacking · Linux · Security Research
 > status     : Learning in public — documenting everything
 > philosophy : "If you didn't document it, it didn't happen."
